@@ -21,8 +21,17 @@ footer {
 }
 
 .colegio {
+    
     position: absolute;
-    size: 10px;
+    font-size: 50px;
     height: 100px;
     width: 1000px;
+    left: 700px;
+    top: 850px;
+    
+}
+
+.carrofavo{
+    position: absolute;
+    top: 50px;
 }
